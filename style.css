@@ -1,0 +1,15 @@
+body{
+	padding-top: 3rem;
+	font-family: 'Do Hyeon', sans-serif;
+	
+}
+
+rect{
+fill:#ff6695;
+}
+
+rect:hover{
+fill:#961548;
+transition: all ease .5s;
+cursor: crosshair;
+}
